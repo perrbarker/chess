@@ -1,0 +1,6 @@
+My chess program was made in my first computer science class. I was
+responsible for designing the algorithms for the chess pieces. I worked
+with my partner Dalton on designing pseudocode that he was able to understand
+easily translate to the program. If we continued to work on the game after
+the class ended, we could have cleaned up the display of the board state
+to make the game look complete.
